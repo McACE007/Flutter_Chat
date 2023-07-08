@@ -39,6 +39,6 @@ The screenshots below are taken on an Android emulator.
 |------|-------|
 |<img src="screenshots/7.png" width="300">|<img src="screenshots/8.png" width="300">|
 
-| 9 | 10|
+| 9 |
 |------|
 |<img src="screenshots/9.png" width="300">|
